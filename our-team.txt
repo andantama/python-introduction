@@ -1,4 +1,4 @@
 Director: Dantama
 Vice Director: Rin Alianti
 CMO: Airin
-CTO: Braga
+CTO: Dyaksa
